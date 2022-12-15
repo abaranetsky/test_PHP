@@ -1,6 +1,8 @@
 <?php
 echo "MR BENN <br> I am second file <br>";
+echo "+++++++++++++++++<br>";
 class Sort {
+
 public $bob = array(5, 6, 10, -2, 80, 35);
 
 public function visualBob(){
