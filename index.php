@@ -17,5 +17,11 @@
 <?php
 include "test.inc.php";
 ?>
+<br/><br/>
+<table border="1">
+    <tr><td><h3>ПРИВЕТ ОТ Grey<h3></td></tr>
+</table>
+
+
 
 </html>
